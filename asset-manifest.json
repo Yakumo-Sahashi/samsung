@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/samsung/static/css/main.71a1c106.css",
-    "main.js": "/samsung/static/js/main.2e84faa1.js",
+    "main.js": "/samsung/static/js/main.2fe60120.js",
     "static/media/bg3.jpg": "/samsung/static/media/bg3.4668ac261c05c0f4f0ed.jpg",
     "static/media/bg.jpg": "/samsung/static/media/bg.870da3c54dfcc5d95d7f.jpg",
     "static/media/bg4.jpg": "/samsung/static/media/bg4.755e5ec53a00760a53f5.jpg",
@@ -76,10 +76,10 @@
     "static/media/galaxy-s22-ultra_models_s-pen.svg": "/samsung/static/media/galaxy-s22-ultra_models_s-pen.438f02ebffc91a5a98f9fed06aef1c03.svg",
     "static/media/galaxy-s22-ultra_models_front-camera.svg": "/samsung/static/media/galaxy-s22-ultra_models_front-camera.def03dab6c66e6c124b2002c89f49da7.svg",
     "main.71a1c106.css.map": "/samsung/static/css/main.71a1c106.css.map",
-    "main.2e84faa1.js.map": "/samsung/static/js/main.2e84faa1.js.map"
+    "main.2fe60120.js.map": "/samsung/static/js/main.2fe60120.js.map"
   },
   "entrypoints": [
     "static/css/main.71a1c106.css",
-    "static/js/main.2e84faa1.js"
+    "static/js/main.2fe60120.js"
   ]
 }
